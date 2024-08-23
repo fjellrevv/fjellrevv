@@ -22,4 +22,6 @@
 ### 🔴 My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjellrevv&layout=compact)](https://github.com/fjellrevv/github-readme-stats)
-[![codewars](https://www.codewars.com/users/fjellrevv/badges/large)](https://www.codewars.com/users/fjellrevv)
+
+
+[![codewars](https://www.codewars.com/users/fjellrevv/badges/small)](https://www.codewars.com/users/fjellrevv)
